@@ -1,6 +1,6 @@
-﻿token= NjEyMzUzNzgxMjU4MTI1NDAx.XVmMQQ.bl1edrCYJo9DrX__P_zscuHie9U
+token=NjEyNzA4NDczNjI0NDYxMzQz.XVmT1Q.0KtU6_aWXFXsbxZYFruu7kVxFNE
 owner= 600369127907131412
 prefix=1
-game= 1play
-stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
-songinstatus=true اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
+game= 1Play| Dark side
+stayinchannel=true 
+songinstatus=false
